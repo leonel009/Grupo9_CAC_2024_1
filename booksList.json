@@ -1,0 +1,312 @@
+[
+    {
+        "id": "MLA1414305545",
+        "titulo": "Libro Hábitos Atómicos - James Clear - Booket",
+        "genero": "Autoayuda",
+        "descripcion": "Descubre cómo los pequeños hábitos pueden tener un gran impacto en tu vida diaria y aprende estrategias efectivas para construir y mantener hábitos positivos que te ayuden a alcanzar tus metas.",
+        "precio": 14480,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_673885-MLA54040457764_022023-I.jpg"
+    },
+    {
+        "id": "MLA1690192618",
+        "titulo": "Este Dolor No Es Mío: Identifica Y Resuelve Los Traumas Familiares Heredados, De Mark Wolynn.",
+        "genero": "Psicología",
+        "descripcion": "Explora la influencia de los traumas familiares en tu vida y aprende cómo identificar y resolver patrones emocionales y comportamientos que pueden tener su origen en experiencias pasadas.",
+        "precio": 15499,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_980372-MLU72929408251_112023-I.jpg"
+    },
+    {
+        "id": "MLA1709876122",
+        "titulo": "Libro La Felicidad - Gabriel Rolón - Planeta",
+        "genero": "Psicología",
+        "descripcion": "Sumérgete en el fascinante estudio de la felicidad humana y descubre las claves para cultivar una vida más plena y satisfactoria, explorando los aspectos psicológicos y emocionales que influyen en nuestro bienestar.",
+        "precio": 15499,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_758457-MLU75135654463_032024-I.jpg"
+    },
+    {
+        "id": "MLA1699601698",
+        "titulo": "Los Buuu 3 - Van A Tercero Conmigo - Areas Integradas, De No Aplica. Editorial Estacion Mandioca, Tapa Blanda En Español, 2023",
+        "genero": "Infantil",
+        "descripcion": "Acompaña a los divertidos personajes de Los Buuu en sus aventuras mientras exploran conceptos educativos de manera entretenida y creativa, ideal para niños en su camino hacia el aprendizaje.",
+        "precio": 23750,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_967067-MLU74273447229_012024-I.jpg"
+    },
+    {
+        "id": "MLA1378558707",
+        "titulo": "Destroza Este Diario Color - Keri Smith - Libro Del Fondo",
+        "genero": "Creatividad",
+        "descripcion": "Libérate de inhibiciones y exprésate a través de las páginas de este diario interactivo lleno de desafíos creativos, diseñado para inspirarte y estimular tu imaginación.",
+        "precio": 19999,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_655528-MLU74053078727_012024-I.jpg"
+    },
+    {
+        "id": "MLA1680895988",
+        "titulo": "Libro Alas De Hierro. Empíreo 2 - Rebecca Yarros - Planeta",
+        "genero": "Ficción Romántica",
+        "descripcion": "Embárcate en una apasionante historia de amor y aventura ambientada en un mundo de fantasía, donde el romance se entrelaza con la intriga y la acción en una emocionante travesía.",
+        "precio": 31000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_775698-MLU74410061956_022024-I.jpg"
+    },
+    {
+        "id": "MLA1373373113",
+        "titulo": "Libro El Duelo - Gabriel Rolón - Booket",
+        "genero": "Psicología",
+        "descripcion": "Explora el complejo proceso del duelo y aprende a manejar tus emociones y sentimientos ante la pérdida, acompañado por la perspectiva y el conocimiento del reconocido psicólogo Gabriel Rolón.",
+        "precio": 14720,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_612532-MLU72591483745_102023-I.jpg"
+    },
+    {
+        "id": "MLA1425770356",
+        "titulo": "Ciudadania 1 Es - Huellas - Estrada",
+        "genero": "Educación",
+        "descripcion": "Descubre los fundamentos de la ciudadanía y los derechos civiles en esta obra educativa, diseñada para brindar conocimientos sobre la estructura y el funcionamiento de la sociedad.",
+        "precio": 16500,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_853147-MLA43766594756_102020-I.jpg"
+    },
+    {
+        "id": "MLA1408489699",
+        "titulo": "Expedicion Matematica 2 - Claudia Broitman - Santillana, De Broitman, Claudia. Editorial Santillana, Tapa Blanda En Español, 2023",
+        "genero": "Educación",
+        "descripcion": "Continúa tu viaje de aprendizaje matemático con este libro que presenta una variedad de ejercicios y problemas diseñados para fortalecer tus habilidades numéricas y lógicas.",
+        "precio": 16700,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_672924-MLU74264431253_012024-I.jpg"
+    },
+    {
+        "id": "MLA1409930271",
+        "titulo": "El Monje Que Vendió Su Ferrari | Robin Sharma",
+        "genero": "Autoayuda",
+        "descripcion": "Acompaña al protagonista en un viaje transformador hacia la búsqueda de significado y propósito en la vida, inspirado por antiguas enseñanzas orientales y principios de desarrollo personal.",
+        "precio": 9400,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_803363-MLC45258869495_032021-I.jpg"
+    },
+    {
+        "id": "MLA1532625950",
+        "titulo": "Sociales 1 Serie Llaves Más + Versión Digital - Mandioca",
+        "genero": "Educación",
+        "descripcion": "Este libro de la serie Llaves Más está diseñado para enseñar conceptos sociales fundamentales a estudiantes, incluyendo temas como historia, geografía y civismo, junto con una versión digital para un aprendizaje interactivo.",
+        "precio": 16250,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_989924-MLU74931096654_032024-I.jpg"
+    },
+    {
+        "id": "MLA1264898261",
+        "titulo": "Lengua Y Literatura 1 Llaves Más - Mandioca",
+        "genero": "Educación",
+        "descripcion": "Esta obra de la serie Llaves Más se centra en el desarrollo del lenguaje y la literatura en estudiantes de primer nivel, proporcionando herramientas para comprender y apreciar la comunicación escrita y oral.",
+        "precio": 16250,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_694597-MLA40721674972_022020-I.jpg"
+    },
+    {
+        "id": "MLA1664883842",
+        "titulo": "Deja De Ser Tú, De Joe Dispenza. Editorial Urano, Tapa Blanda En Español, 2018",
+        "genero": "Autoayuda",
+        "descripcion": "Descubre cómo liberarte de patrones de pensamiento limitantes y transformar tu vida con los principios de este libro de autoayuda.",
+        "precio": 17800,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_868962-MLU72522565378_102023-I.jpg"
+    },
+    {
+        "id": "MLA1469933042",
+        "titulo": "Dinamica Matematica 1 - Libro Carpeta - Puerto De Palos",
+        "genero": "Educación",
+        "descripcion": "Explora los conceptos básicos de la matemática con este libro diseñado para fomentar el razonamiento lógico y el pensamiento crítico en estudiantes.",
+        "precio": 16500,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_675662-MLA44309030762_122020-I.jpg"
+    },
+    {
+        "id": "MLA1379225828",
+        "titulo": "Expedicion Matematica 4 - Claudia Broitman",
+        "genero": "Educación",
+        "descripcion": "Continúa tu aventura matemática con este libro que presenta desafíos y ejercicios para fortalecer tus habilidades en esta disciplina.",
+        "precio": 16700,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_638456-MLU73269241734_122023-I.jpg"
+    },
+    {
+        "id": "MLA1644839880",
+        "titulo": "Santa Biblia Paloma Celeste, De Reina-valera 1960 -. Editorial Sociedades Bíblicas Unidas, Tapa Blanda En Español, 1960",
+        "genero": "Religión",
+        "descripcion": "Esta edición de la Santa Biblia presenta el texto sagrado en una presentación clara y accesible, con la traducción de la Reina-Valera 1960.",
+        "precio": 4119,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_995825-MLU74203918829_012024-I.jpg"
+    },
+    {
+        "id": "MLA1520584666",
+        "titulo": "El Poder Del Ahora Eckhart Tolle, De Tolle, Eckhart. Editorial Grijalbo, Tapa Blanda En Español, 2012",
+        "genero": "Autoayuda",
+        "descripcion": "Sumérgete en el presente y encuentra la paz interior con las enseñanzas de Eckhart Tolle sobre la importancia de vivir en el ahora.",
+        "precio": 12800,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_942529-MLU72522555466_102023-I.jpg"
+    },
+    {
+        "id": "MLA1670343958",
+        "titulo": "Expedicion Matematica 3 - Claudia Broitman - Santillana, De Broitman, Claudia. Editorial Santillana, Tapa Blanda En Español, 2023",
+        "genero": "Educación",
+        "descripcion": "Continúa tu viaje de descubrimiento matemático con este libro lleno de desafíos y actividades diseñadas para fortalecer tus habilidades.",
+        "precio": 15865,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_692286-MLU74365931949_022024-I.jpg"
+    },
+    {
+        "id": "MLA1686056502",
+        "titulo": "Libro La Sociedad De La Nieve - Pablo Vierci - Editorial Planeta",
+        "genero": "Historia",
+        "descripcion": "Explora la fascinante historia de supervivencia de un equipo de rugby uruguayo en los Andes, en este libro que narra una increíble historia de coraje y camaradería.",
+        "precio": 24900,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_625364-MLU71269025035_082023-I.jpg"
+    },
+    {
+        "id": "MLA1361425327",
+        "titulo": "Agil Areas 6 Sociales / Naturales (bonaerense) - Mandioca",
+        "genero": "Educación",
+        "descripcion": "Este libro forma parte de la serie Ágil Áreas y está diseñado para enseñar conceptos sociales y naturales de una manera dinámica y participativa.",
+        "precio": 16250,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_806895-MLU73615795625_122023-I.jpg"
+    },
+    {
+        "id": "MLA1413613519",
+        "titulo": "Alas De Sangre, De Rebecca Yarros. Editorial Planeta, Tapa Blanda En Español, 2023",
+        "genero": "Ficción Romántica",
+        "descripcion": "Sumérgete en una apasionante historia de amor y aventura con Alas De Sangre, que narra la emocionante travesía de sus protagonistas en un mundo lleno de pasión y peligro.",
+        "precio": 27500,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_790538-MLU73106969282_122023-I.jpg"
+    },
+    {
+        "id": "MLA1408463361",
+        "titulo": "Ciudadanía 2 - Huellas - Estrada",
+        "genero": "Educación",
+        "descripcion": "Este libro de ciudadanía proporciona conocimientos sobre los derechos y deberes de los ciudadanos, así como información sobre el funcionamiento de la sociedad y el gobierno.",
+        "precio": 16500,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_674580-MLU74899108652_032024-I.jpg"
+    },
+    {
+        "id": "MLA1255239178",
+        "titulo": "Lengua Y Literatura 2 Llaves Más - Mandioca",
+        "genero": "Educación",
+        "descripcion": "Este libro se enfoca en el estudio de la lengua y la literatura, profundizando en la comprensión y análisis de textos literarios, así como en el desarrollo de habilidades comunicativas.",
+        "precio": 16250,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_672042-MLU73541514360_122023-I.jpg"
+    },
+    {
+        "id": "MLA1416032401",
+        "titulo": "Biologia 3 Es Nuevo Huellas - La Comunicacion Y La Informacion En Los Seres Vivos - Estrada, De No Aplica. Editorial Estrada, Tapa Blanda En Español, 2020",
+        "genero": "Ciencia",
+        "descripcion": "Explora el fascinante mundo de la biología con un enfoque en la comunicación y la información en los seres vivos, profundizando en los procesos vitales y las interacciones entre organismos.",
+        "precio": 16000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_669320-MLA40537022342_012020-I.jpg"
+    },
+    {
+        "id": "MLA1589794994",
+        "titulo": "Las 48 Leyes Del Poder  ( Abreviado) - Greene - Espasa",
+        "genero": "Autoayuda",
+        "descripcion": "Descubre las estrategias de poder utilizadas a lo largo de la historia por figuras influyentes en diversos ámbitos, en esta obra que analiza y sintetiza Las 48 Leyes Del Poder de Robert Greene.",
+        "precio": 8500,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_705710-MLA28006053852_082018-I.jpg"
+    },
+    {
+        "id": "MLA1581937156",
+        "titulo": "Libro Zensorialmente: Dejá Que Tu Cuerpo Sea Tu Cerebro - Estanislao Bachrach - V&r",
+        "genero": "Ciencia",
+        "descripcion": "Descubre cómo tu cuerpo y tu mente están interconectados y cómo puedes utilizar este conocimiento para mejorar tu bienestar y tu rendimiento en todas las áreas de tu vida.",
+        "precio": 17820,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_858091-MLU72548176978_112023-I.jpg"
+    },
+    {
+        "id": "MLA1670340596",
+        "titulo": "Libro Artificial - Mariano Sigman Y Santiago Bilinkis - Debate",
+        "genero": "Ciencia",
+        "descripcion": "Explora el fascinante mundo de la inteligencia artificial y su impacto en la sociedad y la humanidad, desde la perspectiva de dos destacados expertos en el campo.",
+        "precio": 16699,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_701372-MLU71679031011_092023-I.jpg"
+    },
+    {
+        "id": "MLA1627398422",
+        "titulo": "Expedicion Matematica 5 - Claudia Broitman",
+        "genero": "Educación",
+        "descripcion": "Continúa explorando el fascinante mundo de las matemáticas con este libro que presenta desafíos y ejercicios diseñados para fortalecer tus habilidades numéricas y lógicas.",
+        "precio": 15865,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_893878-MLA53644307400_022023-I.jpg"
+    },
+    {
+        "id": "MLA1461967742",
+        "titulo": "Expedicion Matematica 4 - Claudia Broitman, De Broitman, Claudia. Editorial Santillana, Tapa Blanda En Español, 2022",
+        "genero": "Educación",
+        "descripcion": "Continúa tu viaje de aprendizaje matemático con este libro que presenta una variedad de ejercicios y problemas para fortalecer tu comprensión y habilidades en esta área.",
+        "precio": 16700,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_718732-MLA53644383221_022023-I.jpg"
+    },
+    {
+        "id": "MLA1418940850",
+        "titulo": "My English Trip - 1 -  Pupil S & Activity Book With Reader + Student App  **2nd Edition**- Macmillan -",
+        "genero": "Educación",
+        "descripcion": "Este libro de inglés está diseñado para estudiantes que desean mejorar sus habilidades lingüísticas a través de actividades interactivas y lecturas interesantes, junto con una aplicación para complementar el aprendizaje.",
+        "precio": 15500,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_975533-MLA54074322695_022023-I.jpg"
+    },
+    {
+        "id": "MLA1399046801",
+        "titulo": "Biblia Letra Grande Concordancia Reina Valera 1960",
+        "genero": "Religión",
+        "descripcion": "Esta edición de la Biblia ofrece una letra grande para facilitar la lectura, junto con una concordancia que permite buscar versículos y temas específicos, siguiendo la traducción de la Reina Valera 1960.",
+        "precio": 18612,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_687236-MLU74993840498_032024-I-jpg"
+    }
+]
