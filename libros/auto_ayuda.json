@@ -1,0 +1,62 @@
+[
+    {
+        "id": "MLA1414742065",
+        "titulo": "Deja De Ser Tú, De Joe Dispenza. Editorial Urano, Tapa Blanda En Español, 2018",
+        "genero": "Auto ayuda",
+        "descripcion": "Descubre las claves para transformar tu vida y alcanzar tu máximo potencial con las enseñanzas de Joe Dispenza, quien ofrece herramientas prácticas para el crecimiento personal y espiritual.",
+        "precio": 17999,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_868962-MLU72522565378_102023-I.jpg"
+    },
+    {
+        "id": "MLA1640776024",
+        "titulo": "Hábitos Atômicos, De James Clear., Vol. 1. Editorial Booket, Tapa Blanda En Español, 2023",
+        "genero": "Auto ayuda",
+        "descripcion": "Descubre cómo los pequeños hábitos pueden tener un gran impacto en tu vida cotidiana y aprende estrategias efectivas para construir y mantener hábitos positivos con este libro de James Clear.",
+        "precio": 14600,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_937573-MLU74994004700_032024-I.jpg"
+    },
+    {
+        "id": "MLA1400646051",
+        "titulo": "Las 48 Leyes Del Poder, De Greene, Robert. Editorial Oceano En Español, 2019",
+        "genero": "Auto ayuda",
+        "descripcion": "Explora las estrategias y tácticas de poder utilizadas por figuras históricas y líderes contemporáneos en este libro clásico de Robert Greene, una guía indispensable para entender y aplicar el poder en la vida cotidiana.",
+        "precio": 27630,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_635594-MLU72592260999_102023-I.jpg"
+    },
+    {
+        "id": "MLA1407247465",
+        "titulo": "El Precio De La Pasión: N/a, De Gabriel Rolón. Serie N/aa Editorial Booket, Tapa Blanda, Edición N/a En Español, 2024",
+        "genero": "Auto ayuda",
+        "descripcion": "En esta obra, Gabriel Rolón nos sumerge en un viaje introspectivo explorando las complejidades de la pasión y sus consecuencias en la vida emocional y relacional de las personas, ofreciendo reflexiones profundas y casos clínicos que invitan a la reflexión y al autoconocimiento.",
+        "precio": 11494,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_972813-MLU75135775437_032024-I.jpg"
+    },
+    {
+        "id": "MLA1271800415",
+        "titulo": "Las Leyes De La Naturaleza, De Robert Greene. Editorial Oceano, Tapa Blanda En Español, 2019",
+        "genero": "Auto ayuda",
+        "descripcion": "En este libro, Robert Greene nos lleva a un viaje introspectivo para explorar las leyes fundamentales que rigen la naturaleza humana y cómo comprender y aplicar estas leyes puede conducir al éxito y la realización personal en todas las áreas de la vida.",
+        "precio": 27630,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_814286-MLU72522635780_102023-I.jpg"
+    },
+    {
+        "id": "MLA1411105467",
+        "titulo": "El Efecto Compuesto. Multiplica Tu Éxito De Forma Sencilla",
+        "genero": "Auto ayuda",
+        "descripcion": "En este libro, el autor nos introduce al poder del efecto compuesto, explicando cómo pequeñas acciones y decisiones tomadas de manera consistente pueden conducir a resultados extraordinarios a lo largo del tiempo, ofreciendo principios simples pero poderosos para alcanzar el éxito en cualquier área de la vida.",
+        "precio": 45000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_765436-MLM49528541671_032022-I.jpg"
+    }
+]

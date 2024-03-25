@@ -1,0 +1,62 @@
+[
+    {
+        "id": "MLA1394180559",
+        "titulo": "Dune - Frank Herbert - Libro - En El Dia",
+        "genero": "Ciencia Ficción",
+        "descripcion": "Adéntrate en un universo épico de ciencia ficción con Dune, la novela clásica de Frank Herbert que sigue las intrigas políticas, las batallas épicas y las aventuras en un mundo desértico lleno de misterio y peligro.",
+        "precio": 24791.5,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_951620-MLA43677613114_102020-I.jpg"
+    },
+    {
+        "id": "MLA1394101631",
+        "titulo": "Saga Dune 1-6. La Mayor Epopeya De Todos Los Tiempos - Frank Herbert - Debols!llo",
+        "genero": "Ciencia Ficción",
+        "descripcion": "Una saga épica que abarca seis libros y transporta a los lectores a un universo futurista lleno de intriga política, aventura interplanetaria y complejidades de la condición humana, escrita por el legendario autor Frank Herbert.",
+        "precio": 103000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_793739-MLU72892503236_112023-I.jpg"
+    },
+    {
+        "id": "MLA1237187496",
+        "titulo": "Harry Potter Box Set: The Complete Collection ( Paperback ), De Rowling, J. K.. Editorial Bloomsbury Publishing, Tapa Blanda En Inglés Internacional, 2014",
+        "genero": "Ciencia Ficción",
+        "descripcion": "El conjunto completo de la serie de Harry Potter escrita por J.K. Rowling, que sigue las aventuras del joven mago Harry Potter y sus amigos en la escuela de magia y hechicería de Hogwarts mientras luchan contra el malvado Lord Voldemort.",
+        "precio": 89799,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_856264-MLA31022729896_062019-I.jpg"
+    },
+    {
+        "id": "MLA1353190113",
+        "titulo": "Harry Potter, De J K Rowling. Editorial Salamandra, Tapa Blanda En Español, 2021",
+        "genero": "Ciencia Ficción",
+        "descripcion": "El primer libro de la mágica serie de Harry Potter, que narra el inicio de las aventuras del joven mago Harry Potter en la escuela de magia y hechicería de Hogwarts, mientras descubre su destino como el 'Niño que vivió', escrito por la aclamada autora J.K. Rowling.",
+        "precio": 147000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_822567-MLU72852772294_112023-I.jpg"
+    },
+    {
+        "id": "MLA1705280144",
+        "titulo": "Bondi Espacial, El - 2017",
+        "genero": "Ciencia Ficción",
+        "descripcion": "Una emocionante novela de ciencia ficción que transporta al lector a un viaje intergaláctico lleno de aventuras, misterios y descubrimientos en un universo futurista fascinante.",
+        "precio": 5000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_616596-MLU75136146915_032024-I.jpg"
+    },
+    {
+        "id": "MLA1710731318",
+        "titulo": "El Pistolero (la Torre Oscura 1), De Stephen King. Serie La Torre Oscura, Vol. 1. Editorial Debols!llo, Tapa Blanda, Edición 1 En Español, 2011",
+        "genero": "Ciencia Ficción",
+        "descripcion": "El primer libro de la aclamada serie La Torre Oscura, que lleva a los lectores a un mundo de fantasía épica lleno de magia, aventuras y personajes inolvidables, creado por el maestro del terror, Stephen King.",
+        "precio": 10000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_876111-MLU72590153333_102023-I.jpg"
+    }
+]

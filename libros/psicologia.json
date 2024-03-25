@@ -1,0 +1,62 @@
+[
+    {
+        "id": "MLA1391621498",
+        "titulo": "Libro El Duelo - Gabriel Rolón - Booket",
+        "genero": "Psicología",
+        "descripcion": "Sumérgete en las profundidades del proceso de duelo con Gabriel Rolón, quien ofrece una perspectiva comprensiva y empática sobre este tema tan universal y humano.",
+        "precio": 14400,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_612532-MLU72591483745_102023-I.jpg"
+    },
+    {
+        "id": "MLA1373405069",
+        "titulo": "En La Infancia Los Diagnosticos Se Escriben Con Lapiz, De Untoiglich, Gisela. Editorial Novedades Educativas, Tapa Blanda En Español",
+        "genero": "Psicología",
+        "descripcion": "Un libro que aborda la importancia de comprender y abordar los diagnósticos en la infancia desde una perspectiva educativa y psicológica, explorando las implicaciones de utilizar herramientas como el lápiz para comprender y acompañar el desarrollo de los niños, escrito por la reconocida autora Gisela Untoiglich.",
+        "precio": 13917,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_699643-MLA29835735411_042019-I.jpg"
+    },
+    {
+        "id": "MLA1520268074",
+        "titulo": "Seminario Vol.3: La Psicosis, De Lacan, Jacques. Editorial Paidós, Tapa Blanda En Español, 2013",
+        "genero": "Psicología",
+        "descripcion": "Una obra fundamental en el campo del psicoanálisis que aborda el tema de la psicosis desde la perspectiva teórica de Jacques Lacan, explorando conceptos y casos clínicos para comprender esta estructura psíquica compleja, parte de la serie de seminarios impartidos por el renombrado psicoanalista.",
+        "precio": 24831,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_849544-MLU74994076454_032024-I.jpg"
+    },
+    {
+        "id": "MLA1513373824",
+        "titulo": "Casa Arbol Persona Evaluacion Psicologica Actualizacion Htp",
+        "genero": "Psicología",
+        "descripcion": "Un recurso esencial para profesionales de la psicología que ofrece una actualización sobre la técnica proyectiva del Árbol-House-Person (HTP), brindando herramientas y ejemplos prácticos para realizar evaluaciones psicológicas precisas y comprender la dinámica emocional de los individuos.",
+        "precio": 7800,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_942464-MLA31039563726_062019-I.jpg"
+    },
+    {
+        "id": "MLA1412949569",
+        "titulo": "Combo: Poder De Las Palabras + Si Lo Crees, Lo Creas, De Mariano Sigman  -   Brian Tracy. Debate -  Penguin Random House Grupo Editorial, Tapa Blanda En Español, 2022",
+        "genero": "Desarrollo Personal",
+        "descripcion": "Un combo de libros que ofrecen herramientas y estrategias para potenciar el desarrollo personal y profesional, abordando temas como el poder de las palabras y la importancia de creer en uno mismo para alcanzar el éxito y la realización personal, escritos por Mariano Sigman y Brian Tracy, respectivamente.",
+        "precio": 34999,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_684321-MLU70631148536_072023-I.jpg"
+    },
+    {
+        "id": "MLA1429790726",
+        "titulo": "El Camino Del Ser - Ed. Arg., De Carl Rogers., Vol. 1. Editorial Kairós, Tapa Blanda, Edición 1 En Español, 2000",
+        "genero": "Psicología",
+        "descripcion": "Una obra clásica que invita al lector a reflexionar sobre el proceso de autoconocimiento y crecimiento personal, presentando las ideas del psicólogo humanista Carl Rogers sobre la autenticidad, la congruencia y la aceptación incondicional, fundamentales para el desarrollo del ser humano.",
+        "precio": 26748,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_600037-MLA45741349853_042021-I.jpg"
+    }
+]

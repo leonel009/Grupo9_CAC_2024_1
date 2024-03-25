@@ -1,0 +1,102 @@
+[
+    {
+        "id": "MLA1381818913",
+        "titulo": "Alas De Sangre De Rebecca Yarros - Planeta",
+        "genero": "Novela",
+        "descripcion": "Déjate envolver por una apasionante historia de amor y superación ambientada en un escenario emocionante y lleno de intrigas, donde los personajes luchan por alcanzar la felicidad en medio de los desafíos.",
+        "precio": 24831,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_849364-MLU72972407903_112023-I.jpg"
+    },
+    {
+        "id": "MLA1391734970",
+        "titulo": "Libro El Extranjero - Albert Camus, De Camus, Albert. Editorial Debolsillo, Tapa Blanda En Español, 2021",
+        "genero": "Novela",
+        "descripcion": "Explora las complejidades de la existencia y la alienación a través de la historia de un hombre atrapado en un mundo absurdo, en esta obra clásica de Albert Camus.",
+        "precio": 8642,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_617981-MLU72521939978_102023-I.jpg"
+    },
+    {
+        "id": "MLA1402935601",
+        "titulo": "La Paciente Silenciosa - Alex Michaeldes, De Michaelides, Alex. Editorial Alfaguara, Tapa Blanda En Español",
+        "genero": "Thriller Psicológico",
+        "descripcion": "Sumérgete en un thriller psicológico lleno de giros inesperados y secretos oscuros con La Paciente Silenciosa, una novela absorbente que te mantendrá en vilo hasta la última página.",
+        "precio": 18258,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_683784-MLU73672371667_122023-I.jpg"
+    },
+    {
+        "id": "MLA1698237446",
+        "titulo": "En Agosto Nos Vemos - Libro Inédito - Gabriel García Márquez",
+        "genero": "Novela",
+        "descripcion": "Una novela inédita del reconocido autor Gabriel García Márquez, que te sumerge en un mundo de magia y realismo mágico mientras explora temas universales como el amor y la soledad.",
+        "precio": 17900,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_646525-MLU74644181178_022024-I.jpg"
+    },
+    {
+        "id": "MLA1298307411",
+        "titulo": "Los Vecinos Mueren En Las Novelas, De Sergio Aguirre. Editorial Norma, Tapa Encuadernación En Tapa Blanda O Rústica En Español, 2014",
+        "genero": "Novela",
+        "descripcion": "Una novela intrigante que explora las complejidades de las relaciones humanas y la naturaleza del amor y la muerte en una comunidad aparentemente tranquila, escrita por el reconocido autor Sergio Aguirre.",
+        "precio": 9800,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_687763-MLU74995020258_032024-I.jpg"
+    },
+    {
+        "id": "MLA1313275482",
+        "titulo": "Libro Coraline - Neil Gaiman, De Gaiman, Neil. Editorial Salamandra, Tapa Blanda En Español, 2020",
+        "genero": "Fantasía Oscura",
+        "descripcion": "Una novela de fantasía oscura que sigue a Coraline, una niña valiente que descubre un mundo paralelo detrás de una puerta secreta en su casa, donde encuentra una versión alternativa de su vida y una malvada figura que intenta retenerla para siempre, escrita por el aclamado autor Neil Gaiman.",
+        "precio": 11493,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_754475-MLU73207946833_122023-I.jpg"
+    },
+    {
+        "id": "MLA1393440343",
+        "titulo": "El Niño Resentido, De Cesar Gonzalez. Editorial Reservoir Books, Tapa Blanda En Español, 2023",
+        "genero": "Novela",
+        "descripcion": "Una novela introspectiva que explora los complejos sentimientos de un niño resentido hacia su entorno y las personas que lo rodean, desentrañando las causas de su conflicto interno y su búsqueda de redención, escrita por el autor Cesar Gonzalez.",
+        "precio": 11999,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_889543-MLU71701972731_092023-I.jpg"
+    },
+    {
+        "id": "MLA1236948241",
+        "titulo": "Elena Sabe (edicion De Bolsillo), De Piñeiro, Claudia. Editorial Debolsillo, Tapa Blanda En Español, 2019",
+        "genero": "Thriller Psicológico",
+        "descripcion": "Un thriller psicológico intrigante que sigue a Elena, una mujer con amnesia, mientras intenta reconstruir su pasado y descubrir la verdad detrás de su identidad perdida, enfrentándose a oscuros secretos y peligrosos enemigos en el camino, escrito por la talentosa autora Claudia Piñeiro.",
+        "precio": 8909,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_843457-MLA44729864563_012021-I.jpg"
+    },
+    {
+        "id": "MLA1644217454",
+        "titulo": "El Psicoanalista En La Mira, De John Katzenbach. Serie El Psicoanalista, Vol. 3. Editorial Ediciones B, Tapa Blanda En Español, 2023",
+        "genero": "Suspenso Psicológico",
+        "descripcion": "El tercer volumen de la serie 'El Psicoanalista', que sigue al brillante pero atormentado psicoanalista Frederick Starks en su enfrentamiento con un nuevo enemigo retorcido que lo llevará al límite de sus habilidades y lo obligará a enfrentarse a su propio pasado oscuro, escrito por el maestro del suspenso psicológico John Katzenbach.",
+        "precio": 30698.5,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_939226-MLU74419021831_022024-I.jpg"
+    },
+    {
+        "id": "MLA1383155763",
+        "titulo": "El Viento Conoce Mi Nombre, De Isabel Allende. Editorial Sudamericana, Tapa Blanda En Español, 2023",
+        "genero": "Ficción Histórica",
+        "descripcion": "Una épica novela que transporta a los lectores a la España del siglo XVI, llena de intriga, romance y aventura, mientras sigue los pasos de una joven valiente que desafía las normas sociales de su tiempo en busca de libertad y justicia, escrita por la renombrada autora Isabel Allende.",
+        "precio": 12000,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_664330-MLU73795195268_012024-I.jpg"
+    }
+]

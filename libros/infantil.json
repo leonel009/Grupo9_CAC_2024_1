@@ -1,0 +1,82 @@
+[
+    {
+        "id": "MLA1387291099",
+        "titulo": "Monstruo De Colores, El, De Llenas, Anna., Vol. 1. Editorial Flamboyant, Tapa Dura, Edición 1 En Español, 2016",
+        "genero": "Infantil",
+        "descripcion": "Sumérgete en la emocionante historia del Monstruo de Colores mientras aprende a reconocer y gestionar sus emociones, en una aventura llena de colores y enseñanzas para los más pequeños.",
+        "precio": 19361,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_943745-MLU72590202863_102023-I.jpg"
+    },
+    {
+        "id": "MLA1364570641",
+        "titulo": "Mouse And Me 2 - Class Book - Oxford",
+        "genero": "Infantil",
+        "descripcion": "Continúa tu aprendizaje del idioma inglés con este libro de texto diseñado para estudiantes de nivel intermedio, que combina actividades interactivas y recursos digitales para mejorar tu fluidez y comprensión.",
+        "precio": 20605,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_737580-MLU75135943775_032024-I.jpg"
+    },
+    {
+        "id": "MLA1381302777",
+        "titulo": "El Monstruo De Colores Pop Up - Pasta Dura - Anna Llenas",
+        "genero": "Infantil",
+        "descripcion": "Disfruta de una experiencia de lectura única con este libro pop-up del Monstruo de Colores, que cobra vida en cada página mientras los niños exploran sus emociones de una manera interactiva y divertida.",
+        "precio": 30187,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_793460-MLU72930546097_112023-I.jpg"
+    },
+    {
+        "id": "MLA1513349464",
+        "titulo": "Una Familia Anormal ( Pack ): Estuche Relanzamiento, De Lyna Vallejos. Una Familia Normal Editorial Altea, Tapa Blanda, Edición 2022 En Español, 2022",
+        "genero": "Infantil",
+        "descripcion": "Acompaña a la familia Anormal en una serie de divertidas aventuras llenas de humor y fantasía, ideal para niños y jóvenes que disfrutan de historias originales y personajes entrañables.",
+        "precio": 23254,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_637189-MLU72591477839_102023-I.jpg"
+    },
+    {
+        "id": "MLA1266612586",
+        "titulo": "El Principito, De Saint- Exupery Antoi. Editorial Catapulta, Tapa Dura En Español, 2015",
+        "genero": "Infantil",
+        "descripcion": "Explora la belleza y la magia de la infancia a través de los ojos del Principito en este clásico de la literatura mundial, que cautiva a lectores de todas las edades con su sabiduría atemporal y su conmovedora historia sobre el amor, la amistad y la búsqueda de significado.",
+        "precio": 5783,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_893455-MLU75135942461_032024-I.jpg"
+    },
+    {
+        "id": "MLA1400119015",
+        "titulo": "Jeje 3 - El Soquete Sin Par - Areas Integradas - Edelvives, De Vv. Aa.., Vol. 3. Editorial Edelvives, Tapa Blanda, Edición 1 En Español, 2022",
+        "genero": "Infantil",
+        "descripcion": "Acompaña a Jeje en nuevas aventuras llenas de diversión y aprendizaje en este libro de áreas integradas, ideal para niños en edad escolar que disfrutan de lecturas entretenidas y educativas.",
+        "precio": 16900,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_970902-MLU73749525049_012024-I.jpg"
+    },
+    {
+        "id": "MLA1330405452",
+        "titulo": "Quiero Ser Perez - Abrazo De Letras - Margarita Maine, De Maine, Margarita. Editorial Hola Chicos, Tapa Blanda En Español, 2022",
+        "genero": "Infantil",
+        "descripcion": "Únete a las aventuras de Pérez, un pequeño ratón con grandes sueños, en este encantador libro lleno de enseñanzas sobre el valor de la amistad, el esfuerzo y la perseverancia.",
+        "precio": 6635,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_616352-MLA51483028556_092022-I.jpg"
+    },
+    {
+        "id": "MLA1409563708",
+        "titulo": "Suni Cofre: El Viaje Extraordinario - Aavv",
+        "genero": "Aventura",
+        "descripcion": "Embárcate en un emocionante viaje con Suni Cofre y sus amigos, explorando mundos fantásticos y enfrentando desafíos en esta emocionante aventura llena de magia y misterio.",
+        "precio": 39195,
+        "moneda": "ARS",
+        "condicion": "new",
+        "poster": "http://http2.mlstatic.com/D_862535-MLA74154716785_012024-I.jpg"
+    }
+]
