@@ -9,26 +9,44 @@
 <body>
     
     <header>
+        <a href="index.html"><img src="../imagenes/iconos/icono libro.svg" alt="icono libro" class="logo-img"></a>
         <nav class="cajon-header">
-            <div class="componente"><a href="index.html"><img src="../imagenes/iconos/icono libro.svg" alt="icono libro" class="logo-img"></a></div>
-            <div class="componente buscador"><a href="">Buscador</a></div>
-            <div class="componente login"><a href="">Login</a></div>
+        <ul>
+            <li class=""><a href="">Buscador</a></li>
+            <li class=""><a href="">Login</a></li>
+        </ul>
+           
         </nav>
-
+        
     </header>
+    <section class="zona1">
 
-    <main class="cajon-main">
-        <aside>
-            <h2>categorias</h2>
-            <ul>
-                <li> <a href="categorias/ficcion.html">Ficcion y Literatura</a> </li>
-                <li> <a href="categorias/infantil.html">Infantil</a> </li>
-                <li> <a href="categorias/auto_ayuda.html">Autoayuda</a> </li>
-                <li> <a href="categorias/novela.html">Novela</a> </li>
-                <li> <a href="categorias/psicologia.html">Psicologia</a></li>
-                
-            </ul>
-        </aside>
+        <main class="cajon-main">
+            <aside>
+                <h2>categorias</h2>
+                <ul>
+                    <li> <a href="categorias/ficcion.html">Ficcion y Literatura</a> </li>
+                    <li> <a href="categorias/infantil.html">Infantil</a> </li>
+                    <li> <a href="categorias/auto_ayuda.html">Autoayuda</a> </li>
+                    <li> <a href="categorias/novela.html">Novela</a> </li>
+                    <li> <a href="categorias/psicologia.html">Psicologia</a></li>
+                    
+                </ul>
+            </aside>
+    
+            <article>
+                <h2>iframe</h2>
+                <img src="../imagenes/autoayuda/las-leyes-de-la-naturaleza.webp" alt="">
+            </article>
+            
+        
+        </main>
+    </section>
+   
+
+
+    <main class="">
+        
 
         <article>
             <h2>iframe</h2>
@@ -37,10 +55,18 @@
         
     
     </main>
-
+    
     <footer>
         pie
     </footer>
+    <script type="text/javascript">
+        window.addEventListener("scroll", function(){
+            var header = document.querySelector("header");
+            header.classList.toggle("abajo",window.scrollY>0);
+
+        })
+    </script>
 
 </body>
+
 </html>
