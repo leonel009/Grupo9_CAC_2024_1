@@ -1,6 +1,16 @@
-.cajon{
-    display: flex;
+.cajon-header{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    background-color: green;
+    gap: 10px;
 }
-.componente{
+.cajon-header div{
+    padding: 2px;
     margin: 2px;
+    background-color: lightgrey;
+    flex: 1 1 50px;
 }
+.logo-img{
+    height: 100px;
+}
+

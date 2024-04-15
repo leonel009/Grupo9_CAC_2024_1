@@ -1,0 +1,18 @@
+.cajon-main{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    background-color: cyan;
+    gap: 10px;
+}
+
+.cajon-main article, .cajon-main aside {
+    padding: 2px;
+    margin: 2px;
+    background-color: lightgrey;
+    
+}
+
+article, aside{
+    justify-content: center;
+    text-align: center;
+}

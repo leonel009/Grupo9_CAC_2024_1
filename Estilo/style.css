@@ -1,8 +1,11 @@
+@import url("normalizacion.css");
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 @import url('header.css');
+@import url('main.css');
 
 
-p {
+
+p, h2 {
     font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: 100;
