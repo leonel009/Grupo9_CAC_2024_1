@@ -1,24 +1,30 @@
-
-
-
-
-
-/*
-.cajon-header{
-    display: grid;
-    grid-template-columns: 1fr 3fr 1fr;
-    background-color: green;
-    gap: 10px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
 }
-*/
 
-.cajon-header div{
-    padding: 2px;
-    margin: 2px;
-    background-color: lightgrey;
-    flex: 1 1 50px;
+header {
+    position: sticky;
+    width: 100%;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(48, 48, 163);
+    z-index: 3;
+
+
 }
-.logo-img{
-    height: 100px;
+
+header.scroll {
+    background: #2f829b;
 }
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 

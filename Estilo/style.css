@@ -8,47 +8,7 @@
   padding: 0;
 }
 
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  display: flex;
-  justify-content: space-around;
-  transition: 0.7s;
-  padding: 30px 20px;
-  z-index: 10;
 
-}
-header.abajo{
-  background: #253d44;
-  padding: 15px 20px;
-
-}
- nav {
-display: flex;
-justify-content: center;
-align-items: center;
-}
-
-
-header ul {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-header ul li a {
-  position: relative;
-  font-family:  Arial, Helvetica, sans-serif;
-  margin: 0 15px;
-  text-decoration: none;
-  color: #fff;
-  letter-spacing: 2px;
-  font-weight: 600;
-  transition: 0.7s;
-}
 .zona1 {
   position: relative;
   width: 100%;

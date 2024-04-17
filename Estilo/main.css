@@ -1,7 +1,7 @@
 .cajon-main{
     display: grid;
     grid-template-columns: 1fr 4fr;
-    background-color: cyan;
+    background-color: rgb(194, 80, 80);
     gap: 10px;
 }
 
