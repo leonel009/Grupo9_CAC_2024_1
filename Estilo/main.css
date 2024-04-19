@@ -1,18 +1,15 @@
 .cajon-main{
     display: grid;
-    grid-template-columns: 1fr 4fr;
-    background-color: rgb(194, 80, 80);
-    gap: 10px;
-}
+    grid-template-columns: repeat(3, 1fr);
 
-.cajon-main article, .cajon-main aside {
-    padding: 2px;
-    margin: 2px;
-    background-color: lightgrey;
-    
 }
 
 article, aside{
     justify-content: center;
     text-align: center;
+}
+
+.imagen {
+    max-width: 250px;
+    max-height: 250px;
 }

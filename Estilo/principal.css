@@ -1,0 +1,35 @@
+@import url("normalizacion.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+* {
+    box-sizing: block;
+}
+
+h2 {
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+.cajon {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 80px 200px 90px;
+    grid-template-areas: 
+    
+    "Header Header Header"
+    "Aside Main Main"  
+    "Footer Footer Footer"
+    ;
+    gap: 20px; 
+}
+
+.header {
+    background-color: salmon;
+    grid-area: Header;
+    }
+.main {background-color: lightgreen; grid-area: Main;}
+.aside {background-color: gold; grid-area: Aside;}
+.footer {background-color: beige; grid-area: Footer;}

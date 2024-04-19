@@ -5,6 +5,12 @@
     font-family: sans-serif;
 }
 
+.logo {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+/*
 header {
     position: sticky;
     width: 100%;
@@ -17,14 +23,22 @@ header {
 
 }
 
+
 header.scroll {
     background: #2f829b;
 }
-
+*/
 nav {
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+.cajon-header {
+    display: flex;
+}
+
+
+
 
 

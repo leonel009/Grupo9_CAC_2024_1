@@ -6,25 +6,42 @@
 *{
   margin: 0;
   padding: 0;
-}
-
-
-.zona1 {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  background-color: #ffffff;
+  box-sizing: block;
   
-
-
 }
 
-
-
-
-p, h2 {
+p {
     font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
 }
+
+h2 {
+  font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: 100;
+font-style: normal;
+}
+
+
+.cajon {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 3fr 90px;
+  grid-template-areas: 
+  
+  "Header Header Header Header"
+  "Aside Main Main Main"  
+  "Footer Footer Footer Footer"
+  ;
+  gap: 20px; 
+}
+
+.header {
+  background-color: salmon;
+  grid-area: Header;
+  }
+.main {background-color: lightgreen; grid-area: Main;}
+.aside {background-color: gold; grid-area: Aside;}
+.footer {background-color: beige; grid-area: Footer;}
