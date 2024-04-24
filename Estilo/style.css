@@ -29,19 +29,26 @@ font-style: normal;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 1fr 3fr 90px;
-  grid-template-areas: 
   
+  grid-template-areas: 
   "Header Header Header Header"
-  "Aside Main Main Main"  
+  "Aside Main Main Main"
+  "Aside Main Main Main"   
+  "Footer Footer Footer Footer"
   "Footer Footer Footer Footer"
   ;
   gap: 20px; 
 }
 
-.header {
-  background-color: salmon;
-  grid-area: Header;
-  }
+.header {background-color: salmon;grid-area: Header;}
 .main {background-color: lightgreen; grid-area: Main;}
 .aside {background-color: gold; grid-area: Aside;}
-.footer {background-color: beige; grid-area: Footer;}
+.footer
+ {
+  background-color: beige; grid-area: Footer;
+  
+}
+
+
+
+
