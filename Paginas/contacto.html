@@ -1,38 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contacto</title>
     <link href="../Estilo/style.css" rel="stylesheet">
 </head>
-
 <body>
+    <div class="cajon">
+        <header class="header">
+            
+            
+            <nav class="cajon-header">
+                <a href="index.html"><img src="../imagenes/iconos/icono libro.svg" alt="icono libro" class="logo"></a>
+        
+                <div class="container">
+                    <input type="text" placeholder="Buscar...">
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+                <a class="logo1" href="">Login</a>
+            
+            
+            </nav>
+            
+        </header>
 
-    <header>
-        <h1>Libreria</h1>
-        <nav>
+
+        <aside class="aside">
+            
+            <h2>Aside</h2>      
+            <h2>categorias</h2>
             <ul>
-                <li><a href="index.html"><p>Inico</p></a></li>
-                <li><a href="categorias.html"><p>Categorias</p></a></li>
-                <li><a href="contacto.html"><p>Contacto</p></a></li>
-                <li><a href="quienes_somos.html"><p>Quienes Somos</p></a></li>
+                <li> <a href="categorias"><h3>Literatura</h3></a> </li>
+                <li> <a href="categorias"><h3>Humanidades</h3></a> </li>
+                <li> <a href="categorias"><h3>Historia</h3></a> </li>
+                <li> <a href="categorias"><h3>Arte</h3></a> </li>
+                <li> <a href="categorias"><h3>Ciencia y Tecnologia</h3></a></li>
+                <li> <a href="categorias"><h3>Estilo de Vida</h3></a></li>
             </ul>
 
-        </nav>
-    </header>
+        </aside>
 
-    <main>
-        <h2>Contacto</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet cum<br> molestiae ipsa error dignissimos
-            eius cupiditate, explicabo eos, quisquam id,<br> ipsam minima quibusdam distinctio et maxime. Dolorum,
-            officia aut.</p>
-    </main>
 
-    <footer>
+        <!--section class="zona1"-->
 
-    </footer>
+            
+        <main class="main">
+            <h1>Main</h1>
+            <form>
+                <div class="contenedor-contacto">
+                    <h1>Formulario de contacto</h1>
+            
+                    <form action="mailto:tucorreo@ejemplo.com" method="post">
+                        <label for="nombre">Nombre:</label>
+                        <input type="text" id="nombre" name="nombre" required>
+            
+                        <label for="email">Correo electrónico:</label>
+                        <input type="email" id="email" name="email" required>
+            
+                        <label for="asunto">Asunto:</label>
+                        <input type="text" id="asunto" name="asunto" required>
+            
+                        <label for="mensaje">Mensaje:</label>
+                        <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+            
+                        <button type="submit">Enviar</button>
+                    </form>
+            </form>
+        </main>
+        
+        
+        <footer class="footer">
+            <div class="panel-footer">
+                <h2>Pie</h2><br>
+    
+                <a href="contacto.html"><h3>Contactanos</h3></a>
+                <a href="quienes_somos.html"><h3>Sobre nosotros</h3></a>
+                </div>
+        </footer> 
+    </div>
+    
+    
+
+    <!--script type="text/javascript">
+        window.addEventListener("scroll", function(){
+            var header = document.querySelector("header");
+            header.classList.toggle("scroll",window.scrollY>0);
+
+        })
+    </script-->
 
 </body>
 
