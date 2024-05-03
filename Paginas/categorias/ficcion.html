@@ -1,36 +1,86 @@
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ficcion</title>
+    <title>Inicio</title>
+    <link href="../../Estilo/style.css" rel="stylesheet">
 </head>
-
 <body>
-    <header>
-        <h1>Libreria</h1>
-        <nav>
+    <div class="cajon">
+        <header class="header">
+            
+            
+            <nav class="cajon-header">
+                <a href="../index.html"><img src="../../imagenes/iconos/icono libro.svg" alt="icono libro" class="logo"></a>
+        
+                <div class="container">
+                    <input type="text" placeholder="Buscar...">
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+                <a class="logo1" href="">Login</a>
+            
+            
+            </nav>
+            
+        </header>
+
+        <aside class="aside">
+            
+            <h2>Aside</h2>      
+            <h2>categorias</h2>
             <ul>
-                <li><a href="../index.html">Inico</a></li>
-                <li><a href="../categorias.html">Categorias</a></li>
-                <li><a href="../contacto.html">Contacto</a></li>
-                <li><a href="../quienes_somos.html">Quienes Somos</a></li>
+                <li> <a href="ficcion.html"><h3>Ficcion</h3></a> </li>
+                <li> <a href="categorias"><h3>Humanidades</h3></a> </li>
+                <li> <a href="categorias"><h3>Historia</h3></a> </li>
+                <li> <a href="categorias"><h3>Arte</h3></a> </li>
+                <li> <a href="categorias"><h3>Ciencia y Tecnologia</h3></a></li>
+                <li> <a href="categorias"><h3>Estilo de Vida</h3></a></li>
             </ul>
 
-        </nav>
-    </header>
-
-    <nav>
-        <a href="ficcion.html">Ficcion</a>
-        <a href="infantil.html">Infantil</a>
-        <a href="novela.html">Novela</a>
-        <a href="psicologia.html">Psicologia</a>
-        <a href="auto_ayuda.html">Autoayuda</a>
+        </aside>
 
 
-    </nav>
+        <!--section class="zona1"-->
+
+            
+        <main class="main">
+            <div class="ficcion">
+                <h1>Main</h1>
+                <h2>Ficcion</h2>
+            </div>
+            <div>
+                <img src="http://http2.mlstatic.com/D_822567-MLU72852772294_112023-I.jpg" alt="" class="imagen">
+                <p><h3 class="texto-genero">titulo: </h3> Harry Potter Box Set: The Complete Collection ( Paperback ), De Rowling, J. K.. Editorial Bloomsbury Publishing, Tapa Blanda En Inglés Internacional. 2014
+                <h3 class="texto-genero">genero: </h3>Ciencia Ficción
+                <h3 class="texto-genero">descripcion: </h3>El conjunto completo de la serie de Harry Potter escrita por J.K. Rowling, que sigue las aventuras del joven mago Harry Potter y sus amigos en la escuela de magia y hechicería de Hogwarts mientras luchan contra el malvado Lord Voldemort.
+                <h3 class="texto-genero">precio: </h3>89799 ARS</p>
+            </div>
+        </main>
+        
+        
+        <footer class="footer">
+            <div class="panel-footer">
+                <h2>Pie</h2><br>
+
+                <a href="../contacto.html"><h3>Contactanos</h3></a>
+                <a href="../quienes_somos.html"><h3>Sobre nosotros</h3></a>
+            </div>
+        </footer> 
+    </div>
+    
+    
+
+    <!--script type="text/javascript">
+        window.addEventListener("scroll", function(){
+            var header = document.querySelector("header");
+            header.classList.toggle("scroll",window.scrollY>0);
+
+        })
+    </script-->
+
 </body>
+
+</html>
 
 </html>
