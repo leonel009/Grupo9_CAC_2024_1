@@ -32,10 +32,12 @@ textarea {
     box-sizing: border-box;
 }
 
-button {
+.boton-form {
     background-color: #4CAF50;
     color: white;
-    padding: 10px 20px;
+    padding: 2px 20px;
     border: none;
     cursor: pointer;
+    height: 30px;
+    width: 80px;
 }
