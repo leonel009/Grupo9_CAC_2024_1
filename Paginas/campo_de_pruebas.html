@@ -3,62 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Principal</title>
-    <link href="../Estilo/principal.css" rel="stylesheet">
-    
+    <title>Inicio</title>
+    <link href="../Estilo/style.css" rel="stylesheet">
 </head>
-
 <body>
     <div class="cajon">
-    <!-- Aqui esta el header, donde se ubicara la barra de navegacion -->
-   
+
+        <!-- Header / NavBar - Icono para volver al inicio, Buscadopr y Login -->
+
         <header class="header">
-            <h2>
-            Header
-            </h2>
             <nav class="cajon-header">
-                <a href="" class="caja-header"><img src="../imagenes/iconos/icono libro.svg" alt="icono" class="logo"></a>
-                <a href=""class="caja-header"><p>Seach</p></a>
-                <a href="" class="caja-header"><p>Login</p></a>
+                <a href="index.html"><img src="../imagenes/iconos/icono libro.svg" alt="icono libro" class="logo"></a>
+        
+                <div class="container">
+                    <input type="text" placeholder="Buscar...">
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+                <a class="logo1" href="">Login</a>
+            
+            
             </nav>
+            
         </header>
 
     <!-- Aqui esta el main, donde se ubicara el contenido de la pagina -->
    
         <main class="main">
-            <h2>Main</h2>
-
-            <section id="inserte-aqui">
-
-            </section>
+            <h2>
+            Main
+            </h2>
         </main>
 
 
     <!-- Aqui esta el Aside, donde se ubicara el menu de categorias -->
     
         <aside class="aside">
-            <h2>
-            Aside
-            </h2>
+            
+            <h2>Aside</h2>      
+            <h2>categorias</h2>
+            <ul>
+                <li> <a href="categorias/ficcion.html"><h3>Ficcion</h3></a> </li>
+                <li> <a href="categorias"><h3>Humanidades</h3></a> </li>
+                <li> <a href="categorias"><h3>Historia</h3></a> </li>
+                <li> <a href="categorias"><h3>Arte</h3></a> </li>
+                <li> <a href="categorias"><h3>Ciencia y Tecnologia</h3></a></li>
+                <li> <a href="categorias"><h3>Estilo de Vida</h3></a></li>
+            </ul>
+
         </aside>
-    
+     
+        <!-- Main - contenido -->
+            
+        <main class="main">
+            <h1>Main</h1>
+            <img src="../imagenes/autoayuda/deja-de-ser-tu.jpg" alt="" class="imagen">
+            <p><b>titulo</b>:Deja De Ser Tú, De Joe Dispenza. Editorial Urano, Tapa Blanda En Español, 2018",<br>
+            <b>genero</b>: Auto ayuda<br>
+            <b>descripcion</b>:Descubre las claves para transformar tu vida y alcanzar tu máximo potencial con las enseñanzas de Joe Dispenza, quien ofrece herramientas prácticas para el crecimiento personal y espiritual.
+            <br><b>precio</b>: 17999<br>
+            <b>moneda</b>: ARS<br>
+            <b>condicion</b>: Nuevo</p>
+        </main>
+        
+        <!-- Footer - Pie de pagina -->
 
-    <!-- Aqui esta el footer, donde se ubicara informacion particular del grupo -->
-    
         <footer class="footer">
-            <h2>
-            Footer
-            </h2>
-        </footer>
-    
+            <div class="panel-footer">
+                <h2>Pie</h2><br>
 
+                <a href="contacto.html"><h3>Contactanos</h3></a>
+                <a href="quienes_somos.html"><h3>Sobre nosotros</h3></a>
+            </div>
+        </footer> 
     </div>
-    <script>
-
-        fetch('../libros/ficcion.json')
-            .then(res => res.json()) // el método .json() analiza la respuesta JSON en un objeto literal JS
-            .then(data => console.log(data));
-    </script>
-    
 </body>
 </html>
