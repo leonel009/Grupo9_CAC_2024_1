@@ -1,36 +1,56 @@
 window.onload = function (){
+    
+    const destino = document.querySelector('#destino')
+    
+    const libros = []
 
-    fetch('../../libros/ficcion.json')
-    .then(res => res.json()) // el método .json() analiza la respuesta JSON en un objeto literal JS
-    .then(data => console.log(data));
+    var ficcion = 'ficcion'
 
-    //cargar libros
-    //buildLibros();
+    obtenerLibrosFic();
+    
+
 }
 
+function obtenerLibrosFic(){
+    fetch('../../libros/ficcion.json')
+    .then(res => res.json()) // el método .json() analiza la respuesta JSON en un objeto literal JS
+    .then(datos => {
+        console.log(datos)
+        construirLibros(datos)
+    })
+    //libros = JSON.parse(JSON.stringify(data))
+}
 
-function buildLibros(){
-/*    //vaiable tipo sring
-    let htmlString = "<h3>Libros: <h3>";
+function construirLibros(libros){
+    //vaiable tipo sring
+    //console.log("a construir con " + JSON.stringify(datos))
+    destino.innerHTML = '';
 
-    htmlString += "";
+    for (let libro of libros){
+        console.log(libro);
+        destino.innerHTML += '<h3> Titulo </h3> <p>' + libro.titulo + '</p> <br>'
+        destino.innerHTML += '<h3> Género </h3> <p>' + libro.genero + '</p> <br>'
+        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libro.descripccion + '</p> <br>'
+        destino.innerHTML += '<h3> Precio </h3> <p>' + libro.precio + ' ARS</p> <br>';
+    }
+
+    /*
+    
+        destino.innerHTML += '<h3> Titulo </h3> <p>' + libroActual.titulo + '</p> <br>'
+        destino.innerHTML += '<h3> Género </h3> <p>' + libroActual.genero + '</p> <br>'
+        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libroActual.descripccion + '</p> <br>'
+        destino.innerHTML += '<h3> Precio </h3> <p>' + libroActual.precio + ' ARS</p> <br>'
+    /*
+    for (var libroActual of libros) {
+
+        destino.innerHTML += '<h3> Titulo </h3> <p>' + libroActual.titulo + '</p> <br>'
+        destino.innerHTML += '<h3> Género </h3> <p>' + libroActual.genero + '</p> <br>'
+        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libroActual.descripccion + '</p> <br>'
+        destino.innerHTML += '<h3> Precio </h3> <p>' + libroActual.precio + ' ARS</p> <br>'
+    }
+    */
 
     
 
-        htmlString += '<h3> Titulo </h3> <p>' + libroActual.titulo + '</p> <br>'
-        htmlString += '<h3> Género </h3> <p>' + libroActual.genero + '</p> <br>'
-        htmlString += '<h3> Descripcion </h3> <p>' + libroActual.descripccion + '</p> <br>'
-        htmlString += '<h3> Precio </h3> <p>' + libroActual.precio + ' ARS</p> <br>'
-    }
-*/
-    for (let i = 0; i < Libros[i]; i ++){
-
-        let libroActual = Libro[i];
-
-        const element = array[i];
-        console.log("Titulo: " + libroActual.titulo);
-        console.log("Género: " + libroActual.genero);
-        console.log("Descripcion: " + libroActual.descripcion);
-        console.log("Precio: " + libroActual.precio + " ARS");
-    }
+    
 }
