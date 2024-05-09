@@ -22,35 +22,17 @@ function obtenerLibrosFic(){
 }
 
 function construirLibros(libros){
-    //vaiable tipo sring
-    //console.log("a construir con " + JSON.stringify(datos))
-    destino.innerHTML = '';
 
-    for (let libro of libros){
+    destino.innerHTML = ''; // limpiar campo
+
+    for (let libro of libros){ // For que va insertando codigo
         console.log(libro);
-        destino.innerHTML += '<h3> Titulo </h3> <p>' + libro.titulo + '</p> <br>'
-        destino.innerHTML += '<h3> Género </h3> <p>' + libro.genero + '</p> <br>'
-        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libro.descripccion + '</p> <br>'
-        destino.innerHTML += '<h3> Precio </h3> <p>' + libro.precio + ' ARS</p> <br>';
+        destino.innerHTML += '<h3> Titulo </h3> <p>' + libro.titulo + '</p>'
+        destino.innerHTML += '<img src=' + libro.poster + ' alt="" class="imagen">'
+        destino.innerHTML += '<h3> Género </h3> <p>' + libro.genero + '</p>'
+        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libro.descripccion + '</p>'
+        destino.innerHTML += '<h3> Precio </h3> <p>' + libro.precio + ' ARS</p>';
+        
     }
 
-    /*
-    
-        destino.innerHTML += '<h3> Titulo </h3> <p>' + libroActual.titulo + '</p> <br>'
-        destino.innerHTML += '<h3> Género </h3> <p>' + libroActual.genero + '</p> <br>'
-        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libroActual.descripccion + '</p> <br>'
-        destino.innerHTML += '<h3> Precio </h3> <p>' + libroActual.precio + ' ARS</p> <br>'
-    /*
-    for (var libroActual of libros) {
-
-        destino.innerHTML += '<h3> Titulo </h3> <p>' + libroActual.titulo + '</p> <br>'
-        destino.innerHTML += '<h3> Género </h3> <p>' + libroActual.genero + '</p> <br>'
-        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libroActual.descripccion + '</p> <br>'
-        destino.innerHTML += '<h3> Precio </h3> <p>' + libroActual.precio + ' ARS</p> <br>'
-    }
-    */
-
-    
-
-    
 }
