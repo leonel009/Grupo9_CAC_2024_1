@@ -24,14 +24,16 @@ function obtenerLibrosFic(){
 function construirLibros(libros){
 
     destino.innerHTML = ''; // limpiar campo
-
+    
     for (let libro of libros){ // For que va insertando codigo
         console.log(libro);
-        destino.innerHTML += '<h3> Titulo </h3> <p>' + libro.titulo + '</p>'
+        destino.innerHTML += '<div class="tarjeta">'
         destino.innerHTML += '<img src=' + libro.poster + ' alt="" class="imagen">'
-        destino.innerHTML += '<h3> Género </h3> <p>' + libro.genero + '</p>'
-        destino.innerHTML += '<h3> Descripcion </h3> <p>' + libro.descripccion + '</p>'
-        destino.innerHTML += '<h3> Precio </h3> <p>' + libro.precio + ' ARS</p>';
+        destino.innerHTML += '<div class="titulo"><p><h3> Titulo </h3> ' + libro.titulo + '</p></div>'
+        destino.innerHTML += '<div class="genero"><p><h3> Género </h3> ' + libro.genero + '</p></div>'
+        destino.innerHTML += '<div class="descripcion"><h3> Descripcion </h3> <p>' + libro.descripccion + '</p></div>'
+        destino.innerHTML += '<div class"precio"><p><h3> Precio </h3> ' + libro.precio + ' ARS</p></div>';
+        destino.innerHTML += '</div>'
         
     }
 
