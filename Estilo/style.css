@@ -30,6 +30,7 @@ font-style: normal;
 }
 
 
+
 .cajon {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -48,7 +49,7 @@ font-style: normal;
   gap: 20px; 
 }
 
-.header {background-color: salmon;grid-area: Header; max-height:500px;}
+.header {background-color:#2d5a81; grid-area: Header; max-height:500px;}
 .main {background-color: white; grid-area: Main;}
 .aside {background-color: white; grid-area: Aside;}
 .footer {background-color: beige; grid-area: Footer; max-height:500px;}
@@ -77,10 +78,6 @@ font-style: normal;
     border: 1px solid #ccc;
     background-color: lightseagreen;
   }
-  body{
-    background-color: blue;
-  }
-
   
 }
 
@@ -108,9 +105,6 @@ font-style: normal;
     background-color: lightseagreen;
 }
 
-  body{
-    background-color: purple;
-  }
 
 }
 

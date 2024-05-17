@@ -6,6 +6,8 @@ body {
 form {
     max-width: 300px;
     margin: 0 auto;
+    border-radius: 5%;
+    border-color: black;
 }
 input[type="text"],
 input[type="password"],
