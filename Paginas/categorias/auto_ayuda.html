@@ -1,120 +1,99 @@
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>auto ayuda</title>
-    <link rel="stylesheet" href="../Estilo/style.css">
+    <title>Ficcion</title>
+    <link href="../../Estilo/style.css" rel="stylesheet">
 </head>
-
 <body>
-    <header>
-        <h1>Libreria</h1>
-        <nav>
-            <ul>
-                <li><a href="../index.html">Inico</a></li>
-                <li><a href="../categorias.html">Categorias</a></li>
-                <li><a href="../contacto.html">Contacto</a></li>
-                <li><a href="../quienes_somos.html">Quienes Somos</a></li>
-            </ul>
+    <div class="cajon">
 
-        </nav>
-    </header>
+        <!-- Header / NavBar - Icono para volver al inicio, Buscadopr y Login -->
 
-    <nav>
-        <a href="ficcion.html">Ficcion</a>
-        <a href="infantil.html">Infantil</a>
-        <a href="novela.html">Novela</a>
-        <a href="psicologia.html">Psicologia</a>
-        <a href="auto_ayuda.html">Autoayuda</a>
+        <header class="header">
+            <nav class="cajon-header">
+                <div class="contenedor-logo">
+                    <a href="../index.html"><img src="../../imagenes/iconos/icono libro.svg" alt="icono libro" class="logo"></a>
+                    <h1 class="titulo-header">El Libro Adecuado</h1>
+                </div>
+                <div class="container">
+                    <input type="text" placeholder="Buscar...">
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+                <a class="logo1" href="../usuario.html"><img src="../../imagenes/iconos/user-regular.svg" alt="icono libro" class="logo">Login</a>
+            
+            
+            </nav>
+            
+        </header>
 
+        <!-- Aside - Lista de Categorias-->
 
-    </nav>
-    <h1>Libros de Auto Ayuda</h1>
-    <ul>
-        <li>
-            <h3>Deja De Ser Tú, De Joe Dispenza.</h3>
-            <p>Editorial Urano, Tapa Blanda En Español, 2018</p>
-            <h4></h4>
-            <img src="../../imagenes/autoayuda/deja-de-ser-tu.jpg" alt="libro deja_de_ser_tu" width="400px">
-            <p>descripcion: Descubre las claves para transformar tu vida y alcanzar tu máximo potencial con las
-                enseñanzas de Joe Dispenza, quien ofrece herramientas prácticas para el crecimiento personal y
-                espiritual.</p>
-            <p>genero: Auto ayuda</p>
-            <h4>ARS $17999</h4>
+        <aside class="aside">
+            <div class="categorias">
+                <h2>Categorias</h2>
+                <ul>
+                    <li> 
+                        <div class="selecionada">
+                            <a href="auto_ayuda.html"><h3><img src="../../imagenes/iconos/mano-sosteniendo-agua.svg" alt="mano-sosteniendo-agua ayuda" class="logo-aside"> Auto Ayuda</h3></a>
+                        </div> 
+                    </li>
+                    <li> 
+                        <div class="selecionada">
+                        <a href="ficcion.html"><h3><img src="../../imagenes/iconos/almuerzo-cohete.svg" alt="ficcion almuerzo-cohete" class="logo-aside"> Ficcion</h3></a>
+                        </div>    
+                    </li>
+                    <li> 
+                        <div class="selecionada">
+                            <a href="infantil.html"><h3><img src="../../imagenes/iconos/piezas-de-rompecabezas.svg" alt="puzzle infantil" class="logo-aside">Infantil</h3></a>
+                        </div> 
+                    </li>
+                    <li> 
+                        <div class="selecionada">
+                            <a href="novela.html"><h3><img src="../../imagenes/iconos/libro-corazon.svg" alt="novela corazon libro" class="logo-aside">Novela</h3></a>
+                        </div>     
+                    </li>
+                    <li> 
+                        <div class="selecionada">
+                            <a href="psicologia.html"><h3><img src="../../imagenes/iconos/cerebro-del-lado-de-la-cabeza.svg" alt="cerebro psicologia mente" class="logo-aside"> Psicologia</h3></a>
+                        </div>    
+                    </li>
+                </ul>
+            </div>
+        </aside>
 
+        <!-- Main - contenido -->
+            
+        <main class="main">
+            <div class="auto_ayuda">
+                <h2 class="fuente-genero">Auto Ayuda</h2>
+            </div>
+            <div id="destino">
+                <!--Destino del js-->
+                
+            </div>
+        </main>
+        
+        <!-- Footer - Pie de pagina -->
 
+        <footer class="footer">
+            <div class="panel-footer">
+                <h2>Pie</h2><br>
 
-        </li>
-        <li>
-            <h3>Hábitos Atômicos, De James Clear.</h3>
-            <p>Vol. 1. Editorial Booket, Tapa Blanda En Español, 2023</p>
-            <img src="../../imagenes/autoayuda/hábitos-atómicos.jpg" alt="libro habitos_atomicos" width="400px">
-            <p>descripcion: Descubre cómo los pequeños hábitos pueden tener un gran impacto en tu vida cotidiana y
-                aprende estrategias efectivas para construir y mantener hábitos positivos con este libro de James Clear.
-            </p>
-            <p>genero: Auto ayuda</p>
-            <h4>ARS 14600</h4>
-        </li>
-        <li>
-
-            <h3>Las 48 Leyes Del Poder, De Greene, Robert.</h3>
-            <p>Editorial Oceano En Español, 2019</p>
-            <img src="../../imagenes/autoayuda/las-48-leyes-del-poder.jpg" alt="libro las-48-leyes-del-poder" width="400px">
-            <p>descripcion: Explora las estrategias y tácticas de poder utilizadas por figuras históricas y líderes
-                contemporáneos en este libro clásico de Robert Greene, una guía indispensable para entender y aplicar el
-                poder en la vida cotidiana.
-            </p>
-            <p>genero: Auto ayuda</p>
-            <h4>ARS 27630</h4>
-        </li>
-        <li>
-
-            <h3>El Precio De La Pasión: N/a, De Gabriel Rolón</h3>
-            <p>Serie N/aa Editorial Booket, Tapa Blanda, Edición N/a En Español, 2024</p>
-            <img src="../../imagenes/autoayuda/el-precio-de-la-pasion.jpg" alt="libro el-precio-de-la-pasion" width="400px">
-            <p>En esta obra, Gabriel Rolón nos sumerge en un viaje introspectivo explorando las complejidades de la
-                pasión y sus consecuencias en la vida emocional y relacional de las personas, ofreciendo reflexiones
-                profundas y casos clínicos que invitan a la reflexión y al autoconocimiento.</p>
-            <p>genero: Auto ayuda</p>
-            <h4>ARS 11494</h4>
-        </li>
-        <li>
-
-            <h3>Las Leyes De La Naturaleza, De Robert Greene</h3>
-            <p>Editorial Oceano, Tapa Blanda En Español, 2019</p>
-            <img src="../../imagenes/autoayuda/las-leyes-de-la-naturaleza.webp" alt="libro las-leyes-de-la-naturaleza" width="400px">
-            <p>En este libro, Robert Greene nos lleva a un viaje introspectivo para explorar las leyes fundamentales que
-                rigen la naturaleza humana y cómo comprender y aplicar estas leyes puede conducir al éxito y la
-                realización personal en todas las áreas de la vida.</p>
-            <p>genero: Auto ayuda</p>
-            <h4>ARS 27630</h4>
-        </li>
-        <li>
-            <!--  {
-        "id": "MLA1411105467",
-        "titulo": "El Efecto Compuesto. Multiplica Tu Éxito De Forma Sencilla",
-        "genero": "Auto ayuda",
-        "descripcion": "En este libro, el autor nos introduce al poder del efecto compuesto, explicando cómo pequeñas acciones y decisiones tomadas de manera consistente pueden conducir a resultados extraordinarios a lo largo del tiempo, ofreciendo principios simples pero poderosos para alcanzar el éxito en cualquier área de la vida.",
-        "precio": 45000,
-        "moneda": "ARS",
-        "condicion": "new",
-        "poster": "http://http2.mlstatic.com/D_765436-MLM49528541671_032022-I.jpg"
-    }-->
-            <h3>El Efecto Compuesto</h3>
-            <p>Multiplica Tu Éxito De Forma Sencilla</p>
-            <img src="../../imagenes/autoayuda/El-efecto-compuesto.jpg" alt="libro El-efecto-compuesto" width="400px">
-            <p>En este libro, el autor nos introduce al poder del efecto compuesto, explicando cómo pequeñas acciones y
-                decisiones tomadas de manera consistente pueden conducir a resultados extraordinarios a lo largo del
-                tiempo, ofreciendo principios simples pero poderosos para alcanzar el éxito en cualquier área de la
-                vida.</p>
-            <p>genero: Auto ayuda</p>
-            <h4>ARS 45000</h4>
-        </li>
-    </ul>
-
+                <a href="../contacto.html"><h3>Contactanos</h3></a>
+                <a href="../quienes_somos.html"><h3>Sobre nosotros</h3></a>
+            </div>
+        </footer> 
+    </div>
+    
+    
+    <script src="../../Js/auto_ayuda.js">
+        
+    </script>
+    
 </body>
+
+</html>
 
 </html>

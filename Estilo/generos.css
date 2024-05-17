@@ -1,19 +1,24 @@
 .ficcion{
     background-color: violet;
+    
 }
 
-.texto-genero{
-    color: #3b7eb4;
+.infantil{
+    background-color: #3b7eb4;
 }
 
-.humanidades{
+.auto_ayuda{
     background-color: rgb(190, 63, 63);
 }
 
-.historia{
+.novela{
     background-color: orange;
 }
 
-.arte{
+.psicologia{
     background-color: cyan;
+}
+
+.fuente-genero{
+    font-weight: bold;
 }

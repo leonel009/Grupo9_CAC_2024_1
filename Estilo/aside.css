@@ -1,0 +1,22 @@
+
+
+.logo-aside{
+    max-width: 20px;
+    max-height: 20px;
+}
+
+.categorias{
+    background-color: lightblue;
+    height: auto;
+    align-content:center;
+}
+
+.selecionada{
+    gap: 2px;
+}
+
+.selecionada:hover{
+    background-color: lightgoldenrodyellow;
+    border-color: blue;
+}
+

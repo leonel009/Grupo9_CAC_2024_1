@@ -1,0 +1,18 @@
+@import url(style.css);
+
+body {
+    font-family: Arial, sans-serif;
+}
+form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+}

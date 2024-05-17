@@ -1,5 +1,5 @@
 .tarjeta {
-    width: 300px;
+    width: auto;
     max-height: 3000px;
     padding: 20px;
     background-color: #f0f0f0;
@@ -8,10 +8,10 @@
     margin: 20px;
     display: grid;
     grid-template-areas: 
-    'imagen titulo titulo'
-    'imagen genero genero'
-    'imagen descripcion descripcio'
-    'imagen precio precio';
+    'imagen titulo titulo titulo'
+    'imagen genero genero genero'
+    'imagen descripcion descripcion descripcion'
+    'imagen precio precio precio';
 
 }
 
@@ -22,8 +22,8 @@
 }
 
 .imagen img {
-    width: 150px; /* ajusta el tamaño de la imagen según sea necesario */
-    border-radius: 50%; /* para que la imagen sea redondeada */
+    width: 200px; /* ajusta el tamaño de la imagen según sea necesario */
+    border-radius: 5%; /* para que la imagen sea redondeada */
 }
 
 .titulo {

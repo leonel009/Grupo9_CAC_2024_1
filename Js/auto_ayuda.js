@@ -3,24 +3,10 @@
 window.onload = function (){
     
     const destino = document.querySelector('#destino')
-    
-    const libros = []
 
-    var ficcion = 'ficcion'
-
-    obtenerLibrosFic();
+    obtenerLibrosAuA();
     
 
-}
-
-function obtenerLibrosFic(){
-    fetch('../../libros/ficcion.json')
-    .then(res => res.json()) // el método .json() analiza la respuesta JSON en un objeto literal JS
-    .then(datos => {
-        console.log(datos)
-        construirLibros(datos)
-    })
-    //libros = JSON.parse(JSON.stringify(data))
 }
 
 function construirLibros(libros){
@@ -43,4 +29,14 @@ function construirLibros(libros){
         destino.innerHTML +='</div>'
         console.log("hecho")
     }
+}
+
+function obtenerLibrosAuA(){
+    fetch('../../libros/auto_ayuda.json')
+    .then(res => res.json()) // el método .json() analiza la respuesta JSON en un objeto literal JS
+    .then(datos => {
+        console.log(datos)
+        construirLibros(datos)
+    })
+    //libros = JSON.parse(JSON.stringify(data))
 }
