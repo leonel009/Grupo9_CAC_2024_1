@@ -7,6 +7,7 @@
 @import url('generos.css');
 @import url('tarjeta.css');
 @import url('aside.css');
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
 
 *{
   margin: 0;
@@ -27,6 +28,12 @@ h2 {
 font-optical-sizing: auto;
 font-weight: 100;
 font-style: normal;
+}
+
+.lumanosimo-regular {
+  font-family: "Lumanosimo", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 

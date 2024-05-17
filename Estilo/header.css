@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    
 }
 
 .logo {
@@ -53,6 +54,9 @@ nav {
     margin-left: 10px;
     margin-right: 10px;
     align-self: center;
+    font-family: "Lumanosimo", cursive;
+    font-weight: 400;
+     font-style: normal;
 }
 
 
