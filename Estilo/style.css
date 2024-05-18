@@ -65,7 +65,7 @@ font-style: normal;
   .cajon {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: 1fr 3fr 90px;
+    grid-template-rows: 90px auto 90px;
     
     grid-template-areas: 
     "Header Header Header Header Header Header"
