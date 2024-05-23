@@ -13,3 +13,7 @@ article, aside{
     max-width: 250px;
     max-height: 250px;
 }
+
+.promo{
+    text-align: center;
+}
