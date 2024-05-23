@@ -94,29 +94,32 @@
 
                         <label for="medioContacto">¿Cómo prefiere ser contactado?</label>
     
-                        <input type="radio" id="emailContacto" name="medioContacto" value="email" checked>
-                        <label for="emailContacto">Correo electrónico</label>
-                        <input type="radio" id="telefonoContacto" name="medioContacto" value="telefono">
-                        <label for="telefonoContacto">Teléfono</label>
+                        <div>
+                            <ul class="cajita-contacto">
+                                <li>
+                                    <input type="radio" id="emailContacto" name="medioContacto" value="email" checked>
+                                    <label for="emailContacto">Correo electrónico</label>
+                                </li>
+                                    
 
+                                <li>
+                                    <label for="telefonoContacto">Teléfono <input type="radio" id="telefonoContacto" name="medioContacto" value="telefono"></label>
+                                </li>
+                            </ul>
+                            
+                            
+                            
+                        </div>
             
                         <button type="submit" class="boton-form">Enviar</button>
                     </form>
-                    <script>
-                        function validarFormulario() {
-                          // Validar cada campo del formulario
-                          // ...
-                    
-                          // Si todos los campos son válidos, permitir el envío del formulario
-                          // return true;
-                    
-                          // Si hay campos inválidos, evitar el envío del formulario y mostrar mensajes de error
-                          // return false;
-                        }
-                    </script>
                 </div>
         </main>
         
+        <script src="../../Js/contacto.js">
+        
+        </script>
+
         <!-- Footer - Pie de pagina -->
 
       <footer class="footer">

@@ -53,4 +53,5 @@ function validarFormulario() {
       mostrarError('medioContacto', 'Debe seleccionar un medio de contacto');
     } else {
       ocultarError('medioContacto');
-  
+    }
+}

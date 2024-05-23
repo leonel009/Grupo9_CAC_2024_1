@@ -4,7 +4,7 @@ body {
 
 .contenedor-contacto {
     max-width: 600px;
-    max-height: 400px;
+    max-height: auto;
     margin: 0 auto;
     padding: 10px;
     border: 1px solid #ccc;
@@ -40,4 +40,11 @@ textarea {
     cursor: pointer;
     height: 30px;
     width: 80px;
+}
+
+.cajita-conacto{ 
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-content: center;
 }
