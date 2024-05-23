@@ -82,28 +82,54 @@
                         <label for="email">Correo electrónico:</label>
                         <input type="email" id="email" name="email" required>
             
-            
                         <label for="asunto">Asunto:</label>
-                        <input type="text" id="asunto" name="asunto" required>
+                        <select id="asunto" name="asunto" required>
+                          <option value="">Seleccione un asunto</option>
+                          <option value="consulta">Consulta general</option>
+                          <option value="sugerencia">Sugerencia</option>
+                          <option value="reclamo">Reclamo</option>
+                        </select>
+                                                
             
                         <label for="mensaje">Mensaje:</label>
                         <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+
+                        <label for="medioContacto">¿Cómo prefiere ser contactado?</label>
+    
+                        <input type="radio" id="emailContacto" name="medioContacto" value="email" checked>
+                        <label for="emailContacto">Correo electrónico</label>
+                        <input type="radio" id="telefonoContacto" name="medioContacto" value="telefono">
+                        <label for="telefonoContacto">Teléfono</label>
+
             
                         <button type="submit" class="boton-form">Enviar</button>
                     </form>
+                    <script>
+                        function validarFormulario() {
+                          // Validar cada campo del formulario
+                          // ...
+                    
+                          // Si todos los campos son válidos, permitir el envío del formulario
+                          // return true;
+                    
+                          // Si hay campos inválidos, evitar el envío del formulario y mostrar mensajes de error
+                          // return false;
+                        }
+                    </script>
                 </div>
         </main>
         
         <!-- Footer - Pie de pagina -->
 
-        <footer class="footer">
+      <!--->  <footer class="footer">
             <div class="panel-footer">
     
                 <a href="contacto.html"><h3>Contactanos</h3></a>
                 <a href="quienes_somos.html"><h3>Sobre nosotros</h3></a>
                 </div>
         </footer> 
-    </div>
+    </div> -->
+
     
     
 
