@@ -42,9 +42,17 @@ textarea {
     width: 80px;
 }
 
-.cajita-conacto{ 
-    display: flex;
-    align-items: center;
-    text-align: center;
-    align-content: center;
+.cajita-contacto li {
+    display: flex; 
+    align-items: center; 
 }
+  
+.cajita-contacto input[type="radio"] {
+    margin-right: 10px; /* Añadir espacio a la derecha del botón */
+}
+
+.cajita-contacto li label {
+    display: inline-block;
+    vertical-align: middle; /* Alinear verticalmente */
+}
+  
