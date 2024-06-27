@@ -1,0 +1,126 @@
+@import url("normalizacion.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url('header.css');
+@import url('main.css');
+@import url('contacto.css');
+@import url('footer.css');
+@import url('generos.css');
+@import url('tarjeta.css');
+@import url('aside.css');
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: block;
+  
+}
+
+p {
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: 100;
+font-style: normal;
+}
+
+.lumanosimo-regular {
+  font-family: "Lumanosimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.centrado{
+  text-align: center;
+}
+
+
+
+.cajon {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 90px auto 90px;
+  
+  grid-template-areas: 
+  "Header Header Header Header"
+  "Aside Main Main Main"
+  "Aside Main Main Main"   
+  "Aside Main Main Main"
+  "Aside Main Main Main"
+  "Aside Main Main Main"
+  "Aside Main Main Main"
+  "Footer Footer Footer Footer"
+  ;
+  gap: 20px; 
+}
+
+.header {background-color:#2d5a81; grid-area: Header; max-height:500px;}
+.main {background-color: white; grid-area: Main;}
+.aside {background-color: white; grid-area: Aside;}
+.footer {background-color: beige; grid-area: Footer; max-height:500px;}
+
+@media screen and (max-width: 768px){
+  .cajon {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 90px auto 90px;
+    
+    grid-template-areas: 
+    "Header Header Header Header Header Header"
+    "Aside Main Main Main Main Main" 
+    "Aside Main Main Main Main Main" 
+    "Aside Main Main Main Main Main" 
+    "Footer Footer Footer Footer Footer Footer"
+    ;
+    gap: 10px; 
+  }
+
+  .contenedor-contacto {
+    max-width: 500px;
+    max-height: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: lightseagreen;
+  }
+  
+}
+
+@media screen and (max-width: 425px){
+  .cajon {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 90px 160px auto 60px;
+    
+    grid-template-areas: 
+    "Header Header"
+    "Aside Aside"
+    "Main Main"
+    "Footer Footer"
+    ;
+    gap: 10px; 
+  }
+
+  .contenedor-contacto {
+    max-width: 500px;
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: lightseagreen;
+}
+
+
+}
+
+
+
+
+
+
