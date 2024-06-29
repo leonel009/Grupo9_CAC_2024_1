@@ -2,9 +2,9 @@ const { conn } = require('../db/dbconnect')
 
 module.exports = {
 
-	getListado: async (req, res) => {
+	getLibros: async (req, res) => {
 		try{
-			const [ registros ] = await conn.query(`SELECT * FROM Items`)
+			const [ registros ] = await conn.query(`SELECT * FROM libreria`)
 			res.json(registros)
 		} catch (error) {
 			throw error
@@ -13,4 +13,5 @@ module.exports = {
 		}
 	},
 
+	
 }
