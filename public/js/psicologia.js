@@ -3,10 +3,8 @@
 window.onload = function (){
     
     const destino = document.querySelector('#destino')
-
-    obtenerLibrosPsi();
     
-
+    obtenerLibros()
 }
 
 function construirLibros(libros){
